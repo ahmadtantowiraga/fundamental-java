@@ -32,11 +32,13 @@ public class AritmatikaOperator {
 
         System.out.println("Operator Assignment");
         int v=10;
+
         v+=10; // e=e+10
         v-=10;
         v*=2;
 
         System.out.println("ahmad");
+
 
 
 
