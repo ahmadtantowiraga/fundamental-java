@@ -78,5 +78,6 @@ public class Main {
         //outuboxing=primitif ke non promitif
         //final tidak bisa diubah
         final String AHMAD_TANTO="Ahmad tanto";
+        System.out.println("ahmad");
     }
 }
