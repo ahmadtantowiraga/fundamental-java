@@ -38,7 +38,7 @@ public class AritmatikaOperator {
 
         System.out.println("ahmad");
 
-       
+
 
     }
 }
