@@ -37,5 +37,6 @@ public class AritmatikaOperator {
         v*=2;
         v/=4;
         System.out.println(v);
+        System.out.println("tanto");
     }
 }
