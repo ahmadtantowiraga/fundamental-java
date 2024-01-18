@@ -35,8 +35,10 @@ public class AritmatikaOperator {
         v+=10; // e=e+10
         v-=10;
         v*=2;
-        v/=4;
-        System.out.println(v);
+
         System.out.println("ahmad");
+
+       
+
     }
 }
